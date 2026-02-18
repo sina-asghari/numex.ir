@@ -1,0 +1,1640 @@
+[
+    {
+        "id": "1",
+        "name": "تلگـرام",
+        "name_en": "Telegram",
+        "description": "شماره‌های بدون ریپورت تلگرام با <img src=\"/images/star.png\" class=\"table_star\"> نمایش داده شده اند، با شماره‌های بدون ریپورت می‌توانید به شخصی افراد پیام ارسال کنید، اطلاعات بیشتر قسمت راهنما",
+        "image": "/images/sv/telegram.svg",
+        "active": "1",
+        "emoji": "💎"
+    },
+    {
+        "id": "2",
+        "name": "اینستاگرام",
+        "name_en": "Instagram",
+        "description": "",
+        "image": "/images/sv/instagram.svg",
+        "active": "1",
+        "emoji": "📷"
+    },
+    {
+        "id": "3",
+        "name": "واتسـاپ",
+        "name_en": "whatsapp",
+        "description": "",
+        "image": "/images/sv/whatsapp.svg",
+        "active": "1",
+        "emoji": "📞"
+    },
+    {
+        "id": "4",
+        "name": "وایبــر",
+        "name_en": "viber",
+        "description": "",
+        "image": "/images/sv/viber.svg",
+        "active": "1",
+        "emoji": "💡"
+    },
+    {
+        "id": "5",
+        "name": "ویچت",
+        "name_en": "wechat",
+        "description": "",
+        "image": "/images/sv/wechat.svg",
+        "active": "1",
+        "emoji": "💬"
+    },
+    {
+        "id": "6",
+        "name": "جیمیل - گوگل - یوتیوب",
+        "name_en": "google",
+        "description": "گوگل محدودیت های بسیار زیادی برای استفاده از شماره مجازی گذاشته است، شماره کشورهای مختلف را تست کنید، کش مرورگر را پاک کرده و آی پی خود را عوض کنید، در صورت ادامه مشکل در زمان دیگری تست کنید",
+        "image": "/images/sv/google.svg",
+        "active": "1",
+        "emoji": "🔍"
+    },
+    {
+        "id": "7",
+        "name": "فیسبـوک",
+        "name_en": "facebook",
+        "description": "",
+        "image": "/images/sv/facebook.svg",
+        "active": "1",
+        "emoji": "📪"
+    },
+    {
+        "id": "8",
+        "name": "توییتــر",
+        "name_en": "twitter",
+        "description": "",
+        "image": "/images/sv/twitter.svg",
+        "active": "1",
+        "emoji": "🐦"
+    },
+    {
+        "id": "9",
+        "name": "مایکروسافت",
+        "name_en": "microsoft",
+        "description": "",
+        "image": "/images/sv/microsoft.svg",
+        "active": "1",
+        "emoji": "💻"
+    },
+    {
+        "id": "10",
+        "name": "لایـن",
+        "name_en": "line",
+        "description": "",
+        "image": "/images/sv/line.svg",
+        "active": "1",
+        "emoji": "📗"
+    },
+    {
+        "id": "11",
+        "name": "یــاهو",
+        "name_en": "yahoo",
+        "description": "",
+        "image": "/images/sv/yahoo.svg",
+        "active": "1",
+        "emoji": "📨"
+    },
+    {
+        "id": "12",
+        "name": "دیگـر سرویـس‌ها",
+        "name_en": "other",
+        "description": "",
+        "image": "/images/sv/other.svg",
+        "active": "1",
+        "emoji": "🌐"
+    },
+    {
+        "id": "13",
+        "name": "بیتـاک",
+        "name_en": "beetalk",
+        "description": "",
+        "image": "/images/sv/beetalk.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "14",
+        "name": "لینکدین",
+        "name_en": "linkedin",
+        "description": "",
+        "image": "/images/sv/linkedin.svg",
+        "active": "1",
+        "emoji": "📂"
+    },
+    {
+        "id": "15",
+        "name": "پی پال",
+        "name_en": "paypal",
+        "description": "",
+        "image": "/images/sv/paypal.svg",
+        "active": "1",
+        "emoji": "♾"
+    },
+    {
+        "id": "16",
+        "name": "فایور",
+        "name_en": "fiverr",
+        "description": "",
+        "image": "/images/sv/fiverr.svg",
+        "active": "1",
+        "emoji": "🛗"
+    },
+    {
+        "id": "17",
+        "name": "تیندر",
+        "name_en": "tinder",
+        "description": "",
+        "image": "/images/sv/tinder.svg",
+        "active": "1",
+        "emoji": "👁‍🗨"
+    },
+    {
+        "id": "18",
+        "name": "ایمو",
+        "name_en": "imo",
+        "description": "",
+        "image": "/images/sv/imo.svg",
+        "active": "1",
+        "emoji": "🟢"
+    },
+    {
+        "id": "19",
+        "name": "وبمانی",
+        "name_en": "webmoney",
+        "description": "",
+        "image": "/images/sv/webmoney.svg",
+        "active": "1",
+        "emoji": "🕸"
+    },
+    {
+        "id": "20",
+        "name": "وی‌کی",
+        "name_en": "vk",
+        "description": "",
+        "image": "/images/sv/vk.svg",
+        "active": "1",
+        "emoji": "📬"
+    },
+    {
+        "id": "21",
+        "name": "آمازون",
+        "name_en": "amazon",
+        "description": "",
+        "image": "/images/sv/amazon.svg",
+        "active": "1",
+        "emoji": "🔅"
+    },
+    {
+        "id": "22",
+        "name": "Mail.ru",
+        "name_en": "mail.ru",
+        "description": "",
+        "image": "/images/sv/mailru.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "23",
+        "name": "نت‌فلیکس",
+        "name_en": "netflix",
+        "description": "",
+        "image": "/images/sv/netflix.svg",
+        "active": "1",
+        "emoji": "🥅"
+    },
+    {
+        "id": "24",
+        "name": "استیم",
+        "name_en": "steam",
+        "description": "",
+        "image": "/images/sv/steam.svg",
+        "active": "1",
+        "emoji": "♨️"
+    },
+    {
+        "id": "25",
+        "name": "دیسکورد | میدجورنی",
+        "name_en": "discord",
+        "description": "",
+        "image": "/images/sv/discord.svg",
+        "active": "1",
+        "emoji": "🎗"
+    },
+    {
+        "id": "26",
+        "name": "اپـل",
+        "name_en": "apple",
+        "description": "در صورتی که نیاز به شماره ای دارید که همیشه قابلیت دریافت پیامک برای تأیید دو مرحله ای اپل آیدی داشته باشد و سایر نرم افزارها و وب سایت ها را داشته باشد از شماره های دائمی نامبرلند خریداری کنید.",
+        "image": "/images/sv/apple.svg",
+        "active": "1",
+        "emoji": "🍏"
+    },
+    {
+        "id": "27",
+        "name": "Qiwi",
+        "name_en": "qiwi",
+        "description": "",
+        "image": "/images/sv/qiwi.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "31",
+        "name": "1688.com",
+        "name_en": "1688.com",
+        "description": "",
+        "image": "/images/sv/1688.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "32",
+        "name": "بلیـزارد",
+        "name_en": "Blizzard",
+        "description": "",
+        "image": "/images/sv/blizzard.svg",
+        "active": "1",
+        "emoji": "🎱"
+    },
+    {
+        "id": "33",
+        "name": "تیک تاک",
+        "name_en": "tiktok",
+        "description": "",
+        "image": "/images/sv/tiktok.svg",
+        "active": "1",
+        "emoji": "✔️"
+    },
+    {
+        "id": "34",
+        "name": "LocalBitcoins",
+        "name_en": "LocalBitcoins",
+        "description": "",
+        "image": "/images/sv/localbitcoins.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "35",
+        "name": "G2A.com",
+        "name_en": "G2A.com",
+        "description": "",
+        "image": "/images/sv/g2a.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "36",
+        "name": "کلاب هاوس",
+        "name_en": "Clubhouse",
+        "description": "",
+        "image": "/images/sv/clubhouse.svg",
+        "active": "1",
+        "emoji": "📣"
+    },
+    {
+        "id": "37",
+        "name": "Bigo Live",
+        "name_en": "Bigo Live",
+        "description": "",
+        "image": "/images/sv/Bigo-Live.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "38",
+        "name": "QQ",
+        "name_en": "Tencent QQ ",
+        "description": "",
+        "image": "/images/sv/qq.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "39",
+        "name": "Airbnb",
+        "name_en": "Airbnb",
+        "description": "",
+        "image": "/images/sv/airbnb.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "40",
+        "name": "Snapchat",
+        "name_en": "Snapchat",
+        "description": "",
+        "image": "/images/sv/snapchat.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "41",
+        "name": "Alibaba",
+        "name_en": "Alibaba",
+        "description": "",
+        "image": "/images/sv/alibaba.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "45",
+        "name": "سیگنال",
+        "name_en": "signal",
+        "description": "",
+        "image": "/images/sv/signal.svg",
+        "active": "1",
+        "emoji": "🪙"
+    },
+    {
+        "id": "46",
+        "name": "AliExpress",
+        "name_en": "AliExpress",
+        "description": "",
+        "image": "/images/sv/aliexpress.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "47",
+        "name": "Tango",
+        "name_en": "Tango",
+        "description": "",
+        "image": "/images/sv/tango.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "48",
+        "name": "آدیداس",
+        "name_en": "Adidas",
+        "description": "",
+        "image": "/images/sv/adidas.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "49",
+        "name": "نایکی",
+        "name_en": "Nike",
+        "description": "",
+        "image": "/images/sv/nike.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "51",
+        "name": "ebay",
+        "name_en": "ebay",
+        "description": "",
+        "image": "/images/sv/ebay.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "52",
+        "name": "MEGA",
+        "name_en": "MEGA",
+        "description": "",
+        "image": "/images/sv/mega.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "53",
+        "name": "هواوی",
+        "name_en": "huawei",
+        "description": "",
+        "image": "/images/sv/huawei.svg",
+        "active": "1",
+        "emoji": "📱"
+    },
+    {
+        "id": "54",
+        "name": "AliPay",
+        "name_en": "AliPay",
+        "description": "",
+        "image": "/images/sv/alipay.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "55",
+        "name": "Zoho",
+        "name_en": "Zoho",
+        "description": "",
+        "image": "/images/sv/zoho.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "56",
+        "name": "AOL",
+        "name_en": "AOL",
+        "description": "",
+        "image": "/images/sv/aol.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "57",
+        "name": "Skrill",
+        "name_en": "Skrill",
+        "description": "",
+        "image": "/images/sv/skrill.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "58",
+        "name": "Blockchain",
+        "name_en": "blockchain",
+        "description": "",
+        "image": "/images/sv/blockchain.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "59",
+        "name": "Taobao",
+        "name_en": "Taobao",
+        "description": "",
+        "image": "/images/sv/taobao.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "60",
+        "name": "لایکی",
+        "name_en": "Likee",
+        "description": "",
+        "image": "/images/sv/likee.svg",
+        "active": "1",
+        "emoji": "🎉"
+    },
+    {
+        "id": "61",
+        "name": "Coinbase",
+        "name_en": "Coinbase",
+        "description": "",
+        "image": "/images/sv/coinbase.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "62",
+        "name": "Upwork ",
+        "name_en": "Upwork ",
+        "description": "",
+        "image": "/images/sv/upwork.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "63",
+        "name": "ProtonMail",
+        "name_en": "ProtonMail",
+        "description": "",
+        "image": "/images/sv/protonmail.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "64",
+        "name": "Fastmail",
+        "name_en": "Fastmail",
+        "description": "",
+        "image": "/images/sv/fastmail.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "65",
+        "name": "Gameflip",
+        "name_en": "Gameflip",
+        "description": "",
+        "image": "/images/sv/gameflip.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "66",
+        "name": "TradingView",
+        "name_en": "TradingView",
+        "description": "",
+        "image": "/images/sv/tradingview.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "68",
+        "name": "KakaoTalk",
+        "name_en": "KakaoTalk",
+        "description": "",
+        "image": "/images/sv/kakaotalk.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "69",
+        "name": "Crypto.com",
+        "name_en": "cryptocom",
+        "description": "",
+        "image": "/images/sv/cryptocom.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "70",
+        "name": "odnoklassniki",
+        "name_en": "odnoklassniki",
+        "description": "",
+        "image": "/images/sv/odnoklassniki.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "71",
+        "name": "Mamba",
+        "name_en": "Mamba",
+        "description": "",
+        "image": "/images/sv/mamba.svg",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "72",
+        "name": "Open AI | ChatGPT",
+        "name_en": "open ai",
+        "description": "",
+        "image": "/images/sv/openai.svg",
+        "active": "1",
+        "emoji": "🤖"
+    },
+    {
+        "id": "73",
+        "name": "kaggle | کگل",
+        "name_en": "kaggle",
+        "description": "",
+        "image": "/images/sv/kaggle.svg",
+        "active": "1",
+        "emoji": "☸️"
+    },
+    {
+        "id": "74",
+        "name": "گوگل ویس",
+        "name_en": "google voice",
+        "description": "",
+        "image": "",
+        "active": "0",
+        "emoji": ""
+    },
+    {
+        "id": "75",
+        "name": "Claude AI",
+        "name_en": "Anthropic | claude",
+        "description": "",
+        "image": "/images/sv/claude-ai.svg",
+        "active": "1",
+        "emoji": "🅰️"
+    },
+    {
+        "id": "76",
+        "name": "spotify premium",
+        "name_en": "spotify premium",
+        "description": "",
+        "image": "/images/account/spotify.png",
+        "active": "0",
+        "emoji": null
+    },
+    {
+        "id": "77",
+        "name": "بامبل",
+        "name_en": "bumble",
+        "description": "",
+        "image": "/images/account/bumble.svg",
+        "active": "1",
+        "emoji": "🈸"
+    },
+    {
+        "id": "79",
+        "name": "گرامرلی",
+        "name_en": "grammarly",
+        "description": "",
+        "image": "/images/sv/grammarly.png",
+        "active": "1",
+        "emoji": ""
+    },
+    {
+        "id": "80",
+        "name": "Open Sooq | السوق المفتوح",
+        "name_en": "open sooq",
+        "description": "",
+        "image": "/images/sv/opensooq.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "81",
+        "name": "POE",
+        "name_en": "POE",
+        "description": "",
+        "image": "/images/sv/poe.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "82",
+        "name": "Runway ML",
+        "name_en": "runway",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": ""
+    },
+    {
+        "id": "83",
+        "name": "لئوناردو",
+        "name_en": "leonardo-ai",
+        "description": "",
+        "image": "/images/sv/leonardo.png",
+        "active": "1",
+        "emoji": ""
+    },
+    {
+        "id": "84",
+        "name": "pika-art",
+        "name_en": "pika-art",
+        "description": "",
+        "image": "/images/sv/pika.png",
+        "active": "1",
+        "emoji": ""
+    },
+    {
+        "id": "85",
+        "name": "Stability AI",
+        "name_en": "Stability AI",
+        "description": "",
+        "image": "/images/sv/stability.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "86",
+        "name": "Synthesia",
+        "name_en": "Synthesia",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "87",
+        "name": "Suno",
+        "name_en": "Suno",
+        "description": "",
+        "image": "/images/sv/Suno.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "88",
+        "name": "Hinge",
+        "name_en": "Hinge",
+        "description": "",
+        "image": "/images/sv/hinge.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "89",
+        "name": "Elevenlabs",
+        "name_en": "Elevenlabs",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "90",
+        "name": "Deepseek",
+        "name_en": "Deepseek",
+        "description": "",
+        "image": "/images/sv/DeepSeek.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "91",
+        "name": "Kling AI",
+        "name_en": "Kling AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "92",
+        "name": "Noon",
+        "name_en": "Noon",
+        "description": "",
+        "image": "/images/sv/Noon.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "93",
+        "name": "Shopee",
+        "name_en": "Shopee",
+        "description": "",
+        "image": "/images/sv/Shopee.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "94",
+        "name": "Trendyol",
+        "name_en": "Trendyol",
+        "description": "",
+        "image": "/images/sv/Trendyol.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "95",
+        "name": "Freelancer",
+        "name_en": "freelancer",
+        "description": "",
+        "image": "/images/sv/Freelancer.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "96",
+        "name": "Roblox",
+        "name_en": "Roblox",
+        "description": "",
+        "image": "/images/sv/Roblox.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "97",
+        "name": "Twitch",
+        "name_en": "Twitch",
+        "description": "",
+        "image": "/images/sv/Twitch.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "98",
+        "name": "Xbox",
+        "name_en": "Xbox",
+        "description": "",
+        "image": "/images/sv/Xbox.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "99",
+        "name": "Qwen AI",
+        "name_en": "Qwen AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "100",
+        "name": "OkCupid",
+        "name_en": "OkCupid",
+        "description": "",
+        "image": "/images/sv/Okcupid.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "101",
+        "name": "PlayHT",
+        "name_en": "PlayHT",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "102",
+        "name": "Abbott",
+        "name_en": "Abbott",
+        "description": "",
+        "image": "/images/sv/Abbott.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "103",
+        "name": "Badoo",
+        "name_en": "Badoo",
+        "description": "",
+        "image": "/images/sv/BADOO.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "105",
+        "name": "Reddit",
+        "name_en": "Reddit",
+        "description": "",
+        "image": "/images/sv/REDDIT.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "106",
+        "name": "Xiaomi",
+        "name_en": "Xiaomi",
+        "description": "",
+        "image": "/images/sv/XIAMI.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "107",
+        "name": "PUBG",
+        "name_en": "PUBG",
+        "description": "",
+        "image": "/images/sv/PUBG.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "108",
+        "name": "TanTan",
+        "name_en": "TanTan",
+        "description": "",
+        "image": "/images/sv/TANTAN.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "109",
+        "name": "Freepik",
+        "name_en": "Freepik",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "110",
+        "name": "Craigslist",
+        "name_en": "Craigslist",
+        "description": "",
+        "image": "/images/sv/craigslist.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "111",
+        "name": "Skout",
+        "name_en": "Skout",
+        "description": "",
+        "image": "/images/sv/SkoutInc.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "112",
+        "name": "DoorDash",
+        "name_en": "DoorDash",
+        "description": "",
+        "image": "/images/sv/DoorDash.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "113",
+        "name": "Avito",
+        "name_en": "Avito",
+        "description": "",
+        "image": "/images/sv/Avito.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "114",
+        "name": "Warpcast",
+        "name_en": "Warpcast",
+        "description": "",
+        "image": "/images/sv/warpcast.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "115",
+        "name": "توسلا",
+        "name_en": "Tosla",
+        "description": "",
+        "image": "/images/sv/Tosla.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "116",
+        "name": "Yandex",
+        "name_en": "Yandex",
+        "description": "",
+        "image": "/images/sv/YANDEX.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "117",
+        "name": "Samsung",
+        "name_en": "Samsung",
+        "description": "",
+        "image": "/images/sv/SAMSUNG.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "118",
+        "name": "OKX",
+        "name_en": "OKX",
+        "description": "",
+        "image": "/images/sv/OKX.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "119",
+        "name": "perplexity",
+        "name_en": "perplexity",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "120",
+        "name": "Garena",
+        "name_en": "Garena",
+        "description": "",
+        "image": "/images/sv/Garena.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "121",
+        "name": "YoutubePremium",
+        "name_en": "youtube-premium",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "122",
+        "name": "Dubizzle",
+        "name_en": "Dubizzle",
+        "description": "",
+        "image": "/images/sv/Dubizzle.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "123",
+        "name": "Grok",
+        "name_en": "Grok",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "124",
+        "name": "Murf AI",
+        "name_en": "Murf AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "125",
+        "name": "Voice AI",
+        "name_en": "Voice AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "126",
+        "name": "KIMI",
+        "name_en": "KIMI",
+        "description": "",
+        "image": "/images/sv/KIMI.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "127",
+        "name": "Fliki AI",
+        "name_en": "Fliki AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "128",
+        "name": "Gemini",
+        "name_en": "Gemini",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "129",
+        "name": "GoogleOne",
+        "name_en": "GoogleOne",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "130",
+        "name": "Descript",
+        "name_en": "Descript",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "131",
+        "name": "Ticketmaster | تیکت مستر",
+        "name_en": "Ticketmaster",
+        "description": "",
+        "image": "/images/sv/ticketmaster.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "132",
+        "name": "Beatoven",
+        "name_en": "Beatoven",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "134",
+        "name": "canva",
+        "name_en": "canva",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "135",
+        "name": "LOVOO",
+        "name_en": "Lovoo",
+        "description": "",
+        "image": "/images/sv/lovoo.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "136",
+        "name": "Weibo | وی بو",
+        "name_en": "Weibo",
+        "description": "",
+        "image": "/images/sv/Weibo.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "137",
+        "name": "Wish | ویش",
+        "name_en": "Wish",
+        "description": "",
+        "image": "/images/sv/wish.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "138",
+        "name": "WalletHub | ولت هاپ",
+        "name_en": "WalletHub",
+        "description": "",
+        "image": "/images/sv/Wallethub.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "139",
+        "name": "Sugarwallet | شوگر ولت",
+        "name_en": "Sugarwallet",
+        "description": "",
+        "image": "/images/sv/sugrwallet3.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "140",
+        "name": "Xworldwallet",
+        "name_en": "Xworldwallet",
+        "description": "",
+        "image": "/images/sv/Xworldwallet.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "141",
+        "name": "Wordtune",
+        "name_en": "Wordtune",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "142",
+        "name": "Match | مچ",
+        "name_en": "Match",
+        "description": "",
+        "image": "/images/sv/Match.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "143",
+        "name": "Duolingo",
+        "name_en": "Duolingo",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "144",
+        "name": "Jaco | جاکو",
+        "name_en": "Jaco",
+        "description": "",
+        "image": "/images/sv/Jaco.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "146",
+        "name": "Temu | تئمو",
+        "name_en": "Temu",
+        "description": "",
+        "image": "/images/sv/temu.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "147",
+        "name": "Uber | اوبر",
+        "name_en": "Uber",
+        "description": "",
+        "image": "/images/sv/uber.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "148",
+        "name": "Capcut",
+        "name_en": "Capcut",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "149",
+        "name": "Cursor",
+        "name_en": "Cursor",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "150",
+        "name": "Five surveys | فایو سوروی",
+        "name_en": "fivesurveys",
+        "description": "",
+        "image": "/images/sv/fivesurveys.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "151",
+        "name": "Notion",
+        "name_en": "Notion",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "152",
+        "name": "Freeup | فری آپ",
+        "name_en": "freeup",
+        "description": "",
+        "image": "/images/sv/freeup.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "153",
+        "name": "Happn | هپن",
+        "name_en": "Happn",
+        "description": "",
+        "image": "/images/sv/Happn.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "154",
+        "name": "HelloTalk | هلو تاک",
+        "name_en": "HelloTalk",
+        "description": "",
+        "image": "/images/sv/hellotalk.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "155",
+        "name": "Hezzl | هزل",
+        "name_en": "Hezzl",
+        "description": "",
+        "image": "/images/sv/Hezzl.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "156",
+        "name": "Krea",
+        "name_en": "Krea",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "157",
+        "name": "Dzine",
+        "name_en": "Dzine",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "158",
+        "name": "Hily | هیلی",
+        "name_en": "Hily",
+        "description": "",
+        "image": "/images/sv/hily.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "159",
+        "name": "Replit",
+        "name_en": "Replit",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "160",
+        "name": "LTX Studio",
+        "name_en": "LTX Studio",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "161",
+        "name": "InVideo",
+        "name_en": "InVideo",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "162",
+        "name": "Monica",
+        "name_en": "Monica",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "163",
+        "name": "Microsoft Copilot",
+        "name_en": "Microsoft Copilot",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "164",
+        "name": "Inshot",
+        "name_en": "Inshot",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "165",
+        "name": "NotebookLM",
+        "name_en": "NotebookLM",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "166",
+        "name": "You",
+        "name_en": "You",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "167",
+        "name": "WISE | وایز",
+        "name_en": "wise",
+        "description": "",
+        "image": "/images/sv/WISE.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "168",
+        "name": "Gamma",
+        "name_en": "Gamma",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "169",
+        "name": "SoundCloud",
+        "name_en": "SoundCloud",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "170",
+        "name": "Captions",
+        "name_en": "Captions",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "171",
+        "name": "Manus",
+        "name_en": "Manus",
+        "description": "",
+        "image": "/images/sv/MANUS.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "172",
+        "name": "Github Copilot",
+        "name_en": "Github Copilot",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "173",
+        "name": "VEED",
+        "name_en": "VEED",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "174",
+        "name": "N8N",
+        "name_en": "N8N",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "176",
+        "name": "Genspark",
+        "name_en": "Genspark",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "177",
+        "name": "Discord Nitro",
+        "name_en": "discord nitro",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "178",
+        "name": "Adobe Creative Cloud",
+        "name_en": "Adobe Creative Cloud",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "179",
+        "name": "Hedra",
+        "name_en": "Hedra",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "180",
+        "name": "Hailuo",
+        "name_en": "Hailuo",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "181",
+        "name": "Picsart",
+        "name_en": "Picsart",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "182",
+        "name": "Jasper",
+        "name_en": "Jasper",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "184",
+        "name": "lovable",
+        "name_en": "lovable",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "187",
+        "name": "heygen",
+        "name_en": "heygen",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "188",
+        "name": "openrouter",
+        "name_en": "openrouter",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "189",
+        "name": "nano banana",
+        "name_en": "nano banana",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "190",
+        "name": "sora",
+        "name_en": "sora",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "191",
+        "name": "v0",
+        "name_en": "v0",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "192",
+        "name": "wan ai",
+        "name_en": "wan ai",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "193",
+        "name": "trae",
+        "name_en": "trae",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "194",
+        "name": "Vidu AI",
+        "name_en": "Vidu AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "195",
+        "name": "Flux AI",
+        "name_en": "Flux AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "196",
+        "name": "higgsfield AI",
+        "name_en": "higgsfield AI",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "197",
+        "name": "کرسر | Cursor",
+        "name_en": "Cursor",
+        "description": "",
+        "image": "/images/sv/Cursor.png",
+        "active": "1",
+        "emoji": null
+    },
+    {
+        "id": "198",
+        "name": "Seedance",
+        "name_en": "Seedance",
+        "description": "",
+        "image": "",
+        "active": "1",
+        "emoji": null
+    }
+]

@@ -1,0 +1,22 @@
+# Python
+env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Excel / output (if you don’t want to commit them)
+merged_numberland.xlsx
+merged_numberland.json
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
